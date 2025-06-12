@@ -11,7 +11,7 @@
 - Languages: English, Hindi, Telugu, Kannada
 
 ## 📁 Featured Projects
-- [💊 Smart Pill Dispenser](https://github.com/YOUR_USERNAME/smart-pill-dispenser)
+- [💊 Smart Pill Dispenser]((https://github.com/DadeJahnavi/Smart-Medication-Reminder))
 - [🌫️ AQI Monitor with Arduino](https://github.com/YOUR_USERNAME/arduino-aqi-monitor)
 - [🦾 Stroke Rehab Wearable (In Progress)](https://github.com/YOUR_USERNAME/multi-imu-rehab-wearable)
 
