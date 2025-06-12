@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Jahnavi!
 
-<!--
-**DadeJahnavi/DadeJahnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate Electronics and Communication student (VTU) with an interest in:
+- 🔌 IoT & Embedded Systems
+- 💡 Real-world problem solving with microcontrollers (Arduino, ESP32)
+- 🎙️ Hosting tech events and collaborating with tech communities
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools
+- Arduino, ESP32, C, Embedded C
+- MS Office, Canva, Arduino IDE, MATLAB
+- Languages: English, Hindi, Telugu, Kannada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Projects
+- [💊 Smart Pill Dispenser](https://github.com/YOUR_USERNAME/smart-pill-dispenser)
+- [🌫️ AQI Monitor with Arduino](https://github.com/YOUR_USERNAME/arduino-aqi-monitor)
+- [🦾 Stroke Rehab Wearable (In Progress)](https://github.com/YOUR_USERNAME/multi-imu-rehab-wearable)
+
+## 📫 Reach Me
+- 📧 jahnavidade@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/Jahnavi_Dade)
+
+✨ Always curious. Always building.
+
