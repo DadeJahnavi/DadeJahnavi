@@ -12,7 +12,7 @@
 
 ## 📁 Featured Projects
 - [💊 Smart Pill Dispenser](https://github.com/DadeJahnavi/Smart-Medication-Reminder)
-- [🌫️ AQI Monitor with Arduino](https://github.com/YOUR_USERNAME/arduino-aqi-monitor)
+- [🌫️ AQI Monitor with Arduino](https://github.com/DadeJahnavi/Air-Pollution-Monitoring-System)
 - [🦾 Stroke Rehab Wearable (In Progress)](https://github.com/YOUR_USERNAME/multi-imu-rehab-wearable)
 
 ## 📫 Reach Me
