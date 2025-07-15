@@ -10,10 +10,10 @@
 - 🎙️ **Tech Community Enthusiast** – Hosting events, mentoring peers, and learning in public
 
 ## 🛠️ Tech Stack
-**Embedded/IoT:** C, Embedded C, Arduino, ESP32, Sensor Fusion  
-**Creative:** HTML, CSS, JavaScript (Basics), Canva, Figma  
-**Tools:** Arduino IDE, MATLAB, LTspice, C/C++ 
-**Languages:** English, Hindi, Telugu (Native), Kannada  
+- **Embedded/IoT:** C, Embedded C, Arduino, ESP32, Sensor Fusion  
+- **Creative:** HTML, CSS, JavaScript (Basics), Canva, Figma  
+- **Tools:** Arduino IDE, MATLAB, LTspice, C/C++ 
+- **Languages:** English, Hindi, Telugu (Native), Kannada  
 
 ## 📂 Featured Projects
 
@@ -28,10 +28,11 @@
   *Posture correction and stroke rehab wearable using ESP32 & OpenCV.*
 
 ### 🎨 Creative Tech
-- [🌸 Cute Portfolio Websites](https://github.com/DadeJahnavi)  
-  *Fun, colorful web experiments blending design and code.*
-- [✨ Mini Art Projects](https://github.com/DadeJahnavi)  
-  *Creative coding, animations, and interactive UI play.*
+- [🌸 pastelwpm](https://pastelwpm.netlify.app/)  
+  *A soft pastel-themed typing speed tester that’s fun and relaxing to use.*  
+- [🌸 affirmation-jar](https://affirmation-jar.netlify.app/)
+  *A virtual jar of positive affirmations for a daily mood boost.*  
+
 
 ## 📫 Let’s Connect!
 - 📧 jahnavidade@gmail.com
