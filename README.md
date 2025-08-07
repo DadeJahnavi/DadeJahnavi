@@ -54,6 +54,17 @@
 
 ---
 
+### Machine Learning Projects
+### ML Projects
+- [Savage Speaker 🎙️](https://savagespeaker.streamlit.app/)  
+  *Roast me, compliment me, or mirror my mood—this sassy Streamlit app dishes it out with flair.*  
+
+- [Salary Predictor 💼](https://employee-salary-prediction-dadejahnavi.streamlit.app/)  
+  *An interactive machine learning app that predicts employee salary based on experience, job role, and other inputs.*
+
+
+---
+
 ## 📫 Let’s Connect!
 
 - 📧 jahnavidade@gmail.com  
