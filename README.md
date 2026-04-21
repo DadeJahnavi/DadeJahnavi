@@ -16,10 +16,10 @@
 
 ## 🚀 What I Do
 
-* 🧠 **Applied Machine Learning** – Classification systems, feature engineering, and real-time inference
-* 👁️ **Computer Vision** – Pose estimation, object detection, and visual validation
-* 🔌 **Embedded Systems & IoT** – ESP32, IMU sensors, and real-time data pipelines
-* ⚡ **System Integration** – End-to-end systems combining ML, hardware, and user interfaces
+* 🧠 **Applied Machine Learning** - Classification systems, feature engineering, and real-time inference
+* 👁️ **Computer Vision** - Pose estimation, object detection, and visual validation
+* 🔌 **Embedded Systems & IoT** - ESP32, IMU sensors, and real-time data pipelines
+* ⚡ **System Integration** - End-to-end systems combining ML, hardware, and user interfaces
 
 ---
 
@@ -46,7 +46,7 @@
 
 ## 📂 Featured Projects
 
-### 🧠 PhysioGuide — AI Rehabilitation Monitoring System
+### 🧠 PhysioGuide - AI Rehabilitation Monitoring System
 
 🔗 https://github.com/DadeJahnavi/physioguide-ai
 
