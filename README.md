@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Jahnavi!
+# 👋 Hi, I’m Jahnavi!
 
-🎓 Electronics & Communication Engineering student (VTU) | 📍 Bangalore, India  
-🌱 Exploring the intersection of **hardware, software & creativity**  
-✨ Always curious. Always building. Always learning.
+🎓 Final-year Electronics & Communication Engineering student (VTU) | 📍 Bangalore, India
+🧠 Focused on **Applied Machine Learning, Computer Vision & Intelligent Systems**
+⚙️ Building real-time systems that combine **ML + sensors + hardware integration**
 
 ---
 
@@ -15,63 +15,82 @@
 ---
 
 ## 🚀 What I Do
-- 🔌 **Embedded Systems & IoT** – Building solutions with Arduino, ESP32, sensors & microcontrollers  
-- 🎨 **Creative Tech Projects** – Websites & interactive apps that make tech feel fun and human  
-- 🎙️ **Tech Community Enthusiast** – Hosting events, mentoring peers, and learning in public
+
+* 🧠 **Applied Machine Learning** – Classification systems, feature engineering, and real-time inference
+* 👁️ **Computer Vision** – Pose estimation, object detection, and visual validation
+* 🔌 **Embedded Systems & IoT** – ESP32, IMU sensors, and real-time data pipelines
+* ⚡ **System Integration** – End-to-end systems combining ML, hardware, and user interfaces
+
+---
+
+## 🧠 Experience
+
+### Machine Learning Internship Experience
+
+* Worked on OCR-based document processing pipelines
+* Improved validation workflows by analyzing model inconsistencies
+* Contributed to ML system integration and deployment workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Embedded/IoT:** C, Embedded C, Arduino, ESP32, Sensor Fusion  
-- **Creative:** HTML, CSS, JavaScript (Basics), Canva, Figma  
-- **Tools:** Arduino IDE, MATLAB, LTspice, C/C++  
-- **Languages:** English, Hindi, Telugu (Native), Kannada  
+* **Programming:** Python, C, C++
+* **Machine Learning:** Random Forest, Classification Models, Feature Engineering, Model Evaluation (Precision/Recall/F1)
+* **Libraries:** NumPy, Pandas, Scikit-learn
+* **Computer Vision:** MediaPipe (pose estimation), OpenCV
+* **Systems:** ESP32, IoT Architectures, Real-Time Systems
+* **Tools:** Git, Jupyter Notebook, VS Code
 
 ---
 
 ## 📂 Featured Projects
 
-### Embedded Systems Projects
-- [Smart Pill Dispenser 💊](https://github.com/DadeJahnavi/Smart-Medication-Reminder)  
-  *Arduino-based automated pillbox with dose tracking and alerts.*
+### 🧠 PhysioGuide — AI Rehabilitation Monitoring System
 
-- [Air Quality Monitor 🌫️](https://github.com/DadeJahnavi/Air-Pollution-Monitoring-System)  
-  *Live AQI monitoring using PM2.5 & gas sensors with LCD display.*
+🔗 https://github.com/DadeJahnavi/physioguide-ai
 
-- [Multi-IMU Rehab Wearable 🦾 (In Progress)](https://github.com/DadeJahnavi/multi-imu-rehab-wearable)  
-  *Posture correction and stroke rehab wearable using ESP32 & OpenCV.*
-
----
-
-### Creative Tech Projects
-- [pastelwpm ⌨️](https://pastelwpm.netlify.app/)  
-  *A soft pastel-themed typing speed tester that’s fun and relaxing to use.*  
-- [affirmation-jar 🫙](https://affirmation-jar.netlify.app/)  
-  *A virtual jar of positive affirmations for a daily mood boost.*  
-- [reflectra 📓](https://reflectra.netlify.app/)  
-  *Daily journaling web app with soft design and reflection prompts.*
+* Built a **multi-modal ML system (IMU + vision fusion)** for exercise classification
+* Achieved **~98% correctness, ~97% exercise, ~94% pose accuracy**
+* Designed feature-engineered pipeline and real-time inference system
+* Integrated ESP32-based IMU sensing with vision-based validation
+* Developed dashboard for feedback and monitoring
 
 ---
 
-### Machine Learning Projects
-### ML Projects
-- [Savage Speaker 🎙️](https://savagespeaker.streamlit.app/)  
-  *Roast me, compliment me, or mirror my mood—this sassy Streamlit app dishes it out with flair.*  
+### 💊 Smart Medication Dispenser & Tracker
 
-- [Salary Predictor 💼](https://employee-salary-prediction-dadejahnavi.streamlit.app/)  
-  *An interactive machine learning app that predicts employee salary based on experience, job role, and other inputs.*
+🔗 https://github.com/DadeJahnavi/Smart-Medication-Reminder
 
-
----
-
-## 📫 Let’s Connect!
-
-- 📧 jahnavidade@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/Jahnavi-Dade)  
-- 💻 [GitHub Profile](https://github.com/DadeJahnavi)
+* Built IoT-based automated pill dispensing system
+* Implemented RTC-based scheduling and adherence tracking
+* Developed simple web interface for monitoring
 
 ---
 
-> 💡 *“Blending engineering precision with creative curiosity.”*
+### 🌫️ Air Quality Monitoring System
 
+🔗 https://github.com/DadeJahnavi/Air-Pollution-Monitoring-System
+
+* Developed real-time AQI monitoring using PM2.5 and gas sensors
+* Displayed live environmental data via LCD interface
+
+---
+
+## 🏆 Achievements
+
+* 🥈 2nd Prize - National Level Project Expo (46 teams)
+* 👩‍💼 Lead Coordinator - IEEE Technovate 2K25 (700+ participants)
+* 🎯 Coordinator - ISTE Technisum (500+ attendees)
+
+---
+
+## 📫 Let’s Connect
+
+* 📧 [jahnavidade@gmail.com](mailto:jahnavidade@gmail.com)
+* 🔗 https://linkedin.com/in/Jahnavi-Dade
+* 💻 https://github.com/DadeJahnavi
+
+---
+
+> 💡 *Focused on building intelligent systems that bridge machine learning and real-world deployment.*
