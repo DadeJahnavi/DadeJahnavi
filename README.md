@@ -23,10 +23,10 @@
 
 ## 🚀 What I Do
 
-* 🧠 **Applied Machine Learning** — Feature engineering, classification systems, real-time inference
-* 👁️ **Computer Vision** — Pose estimation and visual validation pipelines
-* 🔌 **Embedded Systems & IoT** — ESP32, IMU sensors, real-time data streaming
-* ⚡ **System Integration** — Designing end-to-end systems combining ML, hardware, and UI
+* 🧠 **Applied Machine Learning** - Feature engineering, classification systems, real-time inference
+* 👁️ **Computer Vision** - Pose estimation and visual validation pipelines
+* 🔌 **Embedded Systems & IoT** - ESP32, IMU sensors, real-time data streaming
+* ⚡ **System Integration** - Designing end-to-end systems combining ML, hardware, and UI
 
 ---
 
