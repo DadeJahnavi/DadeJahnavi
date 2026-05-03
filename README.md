@@ -73,10 +73,14 @@
 
 🔗 https://github.com/DadeJahnavi/ESP32-6DOF-Robotic-Arm
 
-* Built a WiFi-controlled robotic arm with real-time calibration interface  
-* Implemented calibration-based pick-and-place execution pipeline  
-* Solved real hardware issues (servo jitter, power instability, I2C errors)  
-* Designed system to operate independently after calibration
+* Built a **WiFi-controlled robotic arm** with real-time browser-based calibration interface  
+* Implemented a **calibration-driven pick-and-place execution pipeline**  
+* Solved real hardware challenges:
+  - Servo jitter and motion instability  
+  - Power supply and voltage drop issues  
+  - I2C communication failures  
+* Designed system to operate **independently after calibration without continuous input**
+* Demonstrated stable and repeatable operation across multiple execution cycles
 
 ---
 
