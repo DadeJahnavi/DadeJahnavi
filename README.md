@@ -4,39 +4,44 @@
 🧠 Focused on **Applied Machine Learning, Computer Vision & Intelligent Systems**
 ⚙️ Building real-time systems that combine **ML + sensors + hardware integration**
 
+🚀 I design systems that don’t just predict — they **work in real-world conditions with partial hardware availability**
+
 ---
 
 ## 📑 Table of Contents
-- [🚀 What I Do](#-what-i-do)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📂 Featured Projects](#-featured-projects)
-- [📫 Let’s Connect](#-lets-connect)
+
+* [🚀 What I Do](#-what-i-do)
+* [🧠 Experience](#-experience)
+* [🛠️ Tech Stack](#️-tech-stack)
+* [📂 Featured Projects](#-featured-projects)
+* [🏆 Achievements](#-achievements)
+* [📫 Let’s Connect](#-lets-connect)
 
 ---
 
 ## 🚀 What I Do
 
-* 🧠 **Applied Machine Learning** - Classification systems, feature engineering, and real-time inference
-* 👁️ **Computer Vision** - Pose estimation, object detection, and visual validation
-* 🔌 **Embedded Systems & IoT** - ESP32, IMU sensors, and real-time data pipelines
-* ⚡ **System Integration** - End-to-end systems combining ML, hardware, and user interfaces
+* 🧠 **Applied Machine Learning** — Feature engineering, classification systems, real-time inference
+* 👁️ **Computer Vision** — Pose estimation and visual validation pipelines
+* 🔌 **Embedded Systems & IoT** — ESP32, IMU sensors, real-time data streaming
+* ⚡ **System Integration** — Designing end-to-end systems combining ML, hardware, and UI
 
 ---
 
 ## 🧠 Experience
 
-### Machine Learning Internship Experience
+### Machine Learning Intern
 
-* Worked on OCR-based document processing pipelines
-* Improved validation workflows by analyzing model inconsistencies
-* Contributed to ML system integration and deployment workflows
+* Built OCR-based document processing pipelines
+* Improved validation workflows by identifying and handling model inconsistencies
+* Contributed to ML system integration and deployment pipelines
 
 ---
 
 ## 🛠️ Tech Stack
 
 * **Programming:** Python, C, C++
-* **Machine Learning:** Random Forest, Classification Models, Feature Engineering, Model Evaluation (Precision/Recall/F1)
+* **Machine Learning:** Random Forest, Classification Models, Feature Engineering, Model Evaluation
 * **Libraries:** NumPy, Pandas, Scikit-learn
 * **Computer Vision:** MediaPipe (pose estimation), OpenCV
 * **Systems:** ESP32, IoT Architectures, Real-Time Systems
@@ -50,11 +55,15 @@
 
 🔗 https://github.com/DadeJahnavi/physioguide-ai
 
-* Built a **multi-modal ML system (IMU + vision fusion)** for exercise classification
-* Achieved **~98% correctness, ~97% exercise, ~94% pose accuracy**
-* Designed feature-engineered pipeline and real-time inference system
-* Integrated ESP32-based IMU sensing with vision-based validation
-* Developed dashboard for feedback and monitoring
+* Built a **multi-modal ML system (IMU + vision fusion)** for rehabilitation exercise analysis
+* Achieved **~98% correctness, ~97% exercise classification, ~94% pose accuracy**
+* Designed a **resilient pipeline with fallback modes**:
+
+  * Vision-only feedback when IMU data is unavailable
+  * IMU-only haptic feedback when camera input is absent
+* Developed feature-engineered ML pipeline with real-time inference
+* Integrated ESP32-based sensing with vision-based validation
+* Built dashboard for real-time feedback and monitoring
 
 ---
 
@@ -64,7 +73,7 @@
 
 * Built IoT-based automated pill dispensing system
 * Implemented RTC-based scheduling and adherence tracking
-* Developed simple web interface for monitoring
+* Developed monitoring interface for tracking medication intake
 
 ---
 
@@ -72,8 +81,8 @@
 
 🔗 https://github.com/DadeJahnavi/Air-Pollution-Monitoring-System
 
-* Developed real-time AQI monitoring using PM2.5 and gas sensors
-* Displayed live environmental data via LCD interface
+* Built real-time AQI monitoring system using environmental sensors
+* Displayed live pollutant data via embedded display interface
 
 ---
 
@@ -93,4 +102,4 @@
 
 ---
 
-> 💡 *Focused on building intelligent systems that bridge machine learning and real-world deployment.*
+> 💡 Building intelligent systems that bridge machine learning with real-world deployment constraints.
