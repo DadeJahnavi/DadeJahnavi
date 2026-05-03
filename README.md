@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Jahnavi!
 
 🎓 Final-year Electronics & Communication Engineering student (VTU) | 📍 Bangalore, India
+
 🧠 Focused on **Applied Machine Learning, Computer Vision & Intelligent Systems**
+
 ⚙️ Building real-time systems that combine **ML + sensors + hardware integration**
 
 🚀 I design systems that don’t just predict — they **work in real-world conditions with partial hardware availability**
