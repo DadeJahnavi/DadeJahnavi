@@ -6,7 +6,7 @@
 
 ⚙️ Building real-time systems that combine **ML + sensors + hardware integration**
 
-🚀 I design systems that don’t just predict — they **work in real-world conditions with partial hardware availability**
+🚀 I design systems that don’t just predict - they **work in real-world conditions with partial hardware availability**
 
 ---
 
