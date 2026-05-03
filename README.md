@@ -69,6 +69,17 @@
 
 ---
 
+### 🤖 6-DOF Robotic Arm (ESP32 + WiFi Control)
+
+🔗 https://github.com/DadeJahnavi/ESP32-6DOF-Robotic-Arm
+
+* Built a WiFi-controlled robotic arm with real-time calibration interface  
+* Implemented calibration-based pick-and-place execution pipeline  
+* Solved real hardware issues (servo jitter, power instability, I2C errors)  
+* Designed system to operate independently after calibration
+
+---
+
 ### 💊 Smart Medication Dispenser & Tracker
 
 🔗 https://github.com/DadeJahnavi/Smart-Medication-Reminder
