@@ -1,122 +1,102 @@
 # 👋 Hi, I’m Jahnavi!
 
-🎓 Final-year Electronics & Communication Engineering student (VTU) | 📍 Bangalore, India
+> Building intelligent systems that bridge machine learning with real-world deployment constraints.
 
-🧠 Focused on **Applied Machine Learning, Computer Vision & Intelligent Systems**
+🎓 Electronics & Communication Engineering Graduate (VTU)  
+📍 Bangalore, India  
 
-⚙️ Building real-time systems that combine **ML + sensors + hardware integration**
+🧠 Focused on Applied Machine Learning, Computer Vision, Robotics, and Intelligent Embedded Systems
 
-🚀 I design systems that don’t just predict - they **work in real-world conditions with partial hardware availability**
-
----
-
-## 📑 Table of Contents
-
-* [🚀 What I Do](#-what-i-do)
-* [🧠 Experience](#-experience)
-* [🛠️ Tech Stack](#️-tech-stack)
-* [📂 Featured Projects](#-featured-projects)
-* [🏆 Achievements](#-achievements)
-* [📫 Let’s Connect](#-lets-connect)
+⚙️ Building real-time systems that combine ML, hardware, sensors, and deployment-oriented workflows
 
 ---
 
 ## 🚀 What I Do
 
-* 🧠 **Applied Machine Learning** - Feature engineering, classification systems, real-time inference
-* 👁️ **Computer Vision** - Pose estimation and visual validation pipelines
-* 🔌 **Embedded Systems & IoT** - ESP32, IMU sensors, real-time data streaming
-* ⚡ **System Integration** - Designing end-to-end systems combining ML, hardware, and UI
-
----
-
-## 🧠 Experience
-
-### Machine Learning Intern
-
-* Built OCR-based document processing pipelines
-* Improved validation workflows by identifying and handling model inconsistencies
-* Contributed to ML system integration and deployment pipelines
+- 🧠 Applied Machine Learning — Feature engineering, classification systems, real-time inference, and human activity recognition
+- 👁️ Computer Vision — Pose estimation, movement validation, and visual feedback pipelines
+- 🔌 Embedded Systems & IoT — ESP32 systems, IMU sensing, wireless communication, and real-time data streaming
+- ⚡ Intelligent System Integration — Combining ML, hardware, embedded communication, and UI workflows into deployable systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Programming:** Python, C, C++
-* **Machine Learning:** Random Forest, Classification Models, Feature Engineering, Model Evaluation
-* **Libraries:** NumPy, Pandas, Scikit-learn
-* **Computer Vision:** MediaPipe (pose estimation), OpenCV
-* **Systems:** ESP32, IoT Architectures, Real-Time Systems
-* **Tools:** Git, Jupyter Notebook, VS Code
+### Programming
+Python • C • C++ • SQL
+
+### Machine Learning
+Random Forest • Classification Models • Feature Engineering • Model Evaluation • Human Activity Recognition
+
+### Libraries & Frameworks
+NumPy • Pandas • Scikit-learn • OpenCV • MediaPipe • FastAPI • Streamlit
+
+### Embedded & Systems
+ESP32 • IoT Architectures • Sensor Fusion • Real-Time Systems • Wireless Communication
+
+### Tools
+Git • GitHub • Jupyter Notebook • VS Code • Arduino IDE
+
+---
+
+## 🔬 Engineering Interests
+
+- Edge AI
+- Computer Vision
+- Robotics Automation
+- Human Activity Recognition
+- Intelligent Embedded Systems
+- Real-Time ML Systems
 
 ---
 
 ## 📂 Featured Projects
 
-### 🧠 PhysioGuide - AI Rehabilitation Monitoring System
+### 🧠 [PhysioGuide — AI Rehabilitation Monitoring System](https://github.com/DadeJahnavi/physioguide-ai)
 
-🔗 https://github.com/DadeJahnavi/physioguide-ai
+**Tech Stack:** Python, Scikit-learn, MediaPipe, OpenCV, ESP32, Streamlit
 
-* Built a **multi-modal ML system (IMU + vision fusion)** for rehabilitation exercise analysis
-* Achieved **~98% correctness, ~97% exercise classification, ~94% pose accuracy**
-* Designed a **resilient pipeline with fallback modes**:
-
-  * Vision-only feedback when IMU data is unavailable
-  * IMU-only haptic feedback when camera input is absent
-* Developed feature-engineered ML pipeline with real-time inference
-* Integrated ESP32-based sensing with vision-based validation
-* Built dashboard for real-time feedback and monitoring
+- Developed a multi-modal rehabilitation monitoring system combining IMU sensor fusion and computer vision-based pose estimation
+- Built Random Forest models achieving 98.7% correctness, 96.4% exercise classification, and 94% posture accuracy
+- Engineered feature pipelines using statistical and frequency-domain analysis for human activity recognition
+- Designed resilient fallback workflows supporting independent IMU-only and vision-only inference modes
+- Built real-time dashboard for monitoring, inference visualization, and corrective feedback generation
 
 ---
 
-### 🤖 6-DOF Robotic Arm (ESP32 + WiFi Control)
+### 🤖 [ESP32-Based 6DOF Robotic Arm](https://github.com/DadeJahnavi/ESP32-6DOF-Robotic-Arm)
 
-🔗 https://github.com/DadeJahnavi/ESP32-6DOF-Robotic-Arm
+**Tech Stack:** ESP32, PCA9685, C++, I2C, PWM, Embedded Systems
 
-* Built a **WiFi-controlled robotic arm** with real-time browser-based calibration interface  
-* Implemented a **calibration-driven pick-and-place execution pipeline**  
-* Solved real hardware challenges:
-  - Servo jitter and motion instability  
-  - Power supply and voltage drop issues  
-  - I2C communication failures  
-* Designed system to operate **independently after calibration without continuous input**
-* Demonstrated stable and repeatable operation across multiple execution cycles
+- Built a WiFi-controlled 6DOF robotic arm with browser-based calibration interface
+- Implemented calibration-driven pick-and-place execution pipeline for repeatable autonomous operation
+- Solved embedded hardware challenges involving servo jitter, voltage instability, and I2C communication failures
+- Designed the system to operate independently after calibration without continuous manual input
 
 ---
 
-### 💊 Smart Medication Dispenser & Tracker
+### 💊 [Smart Medication Dispenser & Adherence Tracker](https://github.com/DadeJahnavi/Smart-Medication-Reminder)
 
-🔗 https://github.com/DadeJahnavi/Smart-Medication-Reminder
+**Tech Stack:** ESP32, RTC Module, Embedded C++, IoT
 
-* Built IoT-based automated pill dispensing system
-* Implemented RTC-based scheduling and adherence tracking
-* Developed monitoring interface for tracking medication intake
-
----
-
-### 🌫️ Air Quality Monitoring System
-
-🔗 https://github.com/DadeJahnavi/Air-Pollution-Monitoring-System
-
-* Built real-time AQI monitoring system using environmental sensors
-* Displayed live pollutant data via embedded display interface
+- Built IoT-based automated medication dispensing and adherence tracking system
+- Implemented RTC-based scheduling and real-time intake logging workflows
+- Designed modular architecture supporting future healthcare monitoring integrations
 
 ---
 
 ## 🏆 Achievements
 
-* 🥈 2nd Prize - National Level Project Expo (46 teams)
-* 👩‍💼 Lead Coordinator - IEEE Technovate 2K25 (700+ participants)
-* 🎯 Coordinator - ISTE Technisum (500+ attendees)
+- 🥈 2nd Prize — National Level Project Expo (46 teams)
+- 👩‍💼 Lead Coordinator — IEEE Technovate 2K25 (700+ participants)
+- 🎯 Coordinator — ISTE Technisum (500+ attendees)
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Connect
 
-* 📧 [jahnavidade@gmail.com](mailto:jahnavidade@gmail.com)
-* 🔗 https://linkedin.com/in/Jahnavi-Dade
-* 💻 https://github.com/DadeJahnavi
+📧 Email: [jahnavidade@gmail.com](mailto:jahnavidade@gmail.com)
 
----
+🔗 LinkedIn: [linkedin.com/in/jahnavi-dade](https://linkedin.com/in/jahnavi-dade)
 
-> 💡 Building intelligent systems that bridge machine learning with real-world deployment constraints.
+💻 GitHub: [github.com/DadeJahnavi](https://github.com/DadeJahnavi)
