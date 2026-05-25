@@ -57,7 +57,7 @@
 
 ## 📂 Featured Projects
 
-### 🧠 [PhysioGuide — AI Rehabilitation Monitoring System](https://github.com/DadeJahnavi/physioguide-ai)
+### 🧠 [PhysioGuide - AI Rehabilitation Monitoring System](https://github.com/DadeJahnavi/physioguide-ai)
 **Tech Stack:** Python, Scikit-learn, MediaPipe, OpenCV, ESP32, Streamlit
 
 * Developed a multi-modal rehabilitation monitoring system combining IMU sensor fusion and computer vision-based pose estimation
@@ -89,9 +89,9 @@
 
 ## 🏆 Achievements
 
-* 🥈 2nd Prize — National Level Project Expo (46 teams)
-* 👩‍💼 Lead Coordinator — IEEE Technovate 2K25 (700+ participants)
-* 🎯 Coordinator — ISTE Technisum (500+ attendees)
+* 🥈 2nd Prize - National Level Project Expo (46 teams)
+* 👩‍💼 Lead Coordinator - IEEE Technovate 2K25 (700+ participants)
+* 🎯 Coordinator - ISTE Technisum (500+ attendees)
 
 ---
 
