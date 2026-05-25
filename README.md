@@ -7,6 +7,7 @@
 
 🧠 Focused on Applied Machine Learning, Computer Vision, Robotics, and Intelligent Embedded Systems  
 ⚙️ Building real-time systems that combine ML, hardware, sensors, and deployment-oriented workflows  
+📌 Interested in ML Engineer, Computer Vision, Robotics-AI, and Embedded AI roles
 
 ---
 
