@@ -77,6 +77,17 @@
 * Designed the system to operate independently after calibration without continuous manual input
 
 ---
+### 🩺 [Medical Risk Prediction — Diabetes Classification System](https://github.com/DadeJahnavi/medical-risk-prediction)
+
+**Tech Stack:** Python, Scikit-learn, XGBoost, SHAP, Pandas, NumPy
+
+- Developed an end-to-end machine learning pipeline for diabetes risk prediction using clinical health parameters
+- Compared Logistic Regression, Random Forest, and XGBoost models using Accuracy, F1 Score, and ROC-AUC evaluation metrics
+- Achieved ~0.83 ROC-AUC using Random Forest classification with preprocessing and feature evaluation workflows
+- Implemented SHAP-based explainability pipeline for feature importance visualization and model interpretability analysis
+- Built modular training and explainability workflows supporting reproducible experimentation and evaluation
+
+---
 
 ### 💊 [Smart Medication Dispenser & Adherence Tracker](https://github.com/DadeJahnavi/Smart-Medication-Reminder)
 **Tech Stack:** ESP32, RTC Module, Embedded C++, IoT
