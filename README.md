@@ -28,7 +28,6 @@
   * [🔬 Engineering Interests](#-engineering-interests)
   * [📂 Featured Projects](#-featured-projects)
   * [📊 GitHub Stats](#-github-stats)
-  * [🏆 GitHub Trophies](#-github-trophies)
   * [🏆 Achievements](#-achievements)
   * [📫 Connect](#-connect)
 </details>
@@ -136,14 +135,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DadeJahnavi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DadeJahnavi&theme=tokyonight&no-frame=true&margin-w=4&row=1" />
 </p>
 
 ---
