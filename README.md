@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DadeJahnavi&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
   <a href="https://linkedin.com/in/jahnavi-dade"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jahnavidade@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
