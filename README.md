@@ -159,7 +159,6 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="mailto:jahnavidade@gmail.com"><img src="https://img.shields.io/badge/Email-jahnavidade%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/jahnavi-dade"><img src="https://img.shields.io/badge/LinkedIn-jahnavi--dade-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/DadeJahnavi"><img src="https://img.shields.io/badge/GitHub-DadeJahnavi-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
